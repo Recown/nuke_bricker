@@ -2,7 +2,7 @@
 
 Nuke Gizmo for supervising shots.
 
-# Usege
+# Usage
 ### [Video Tutorial](https://youtu.be/z18xjO2nJfg)
 
 ### [Tricks](https://youtu.be/TFQaIXKqf1Q)
