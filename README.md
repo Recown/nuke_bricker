@@ -28,3 +28,10 @@ Nuke Gizmo for supervising shots.
 2. Copy __bricker.png__ to NUKE_PATH
 
 3. Restart Nuke
+
+
+# known issues
+
+1. Not work in Properties panel yet. Use floating  panel.
+
+2. Break connection when copy\paste
