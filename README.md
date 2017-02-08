@@ -43,7 +43,7 @@ This gizmo saved from Nuke 10.0v4 If you have older version you can save gizmo i
 4. Press button **export as gizmo...**
 
 5. Select old gizmo location and overwrite file. 
-**Attention! Don't chane gizmo name! It should be named "pw_bricker.gizmo". This is important!**
+**Attention! Don't change gizmo name! It should be named "pw_bricker.gizmo". This is important!**
 
 
 # known issues
